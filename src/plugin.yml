@@ -1,4 +1,4 @@
-name: MineResetLite
+name: EliteMine
 version: $version$
 main: com.koletar.jj.mineresetlite.MineResetLite
 author: jjkoletar
@@ -6,5 +6,5 @@ description: A lightweight solution for Mine management.
 softdepend: [WorldEdit, Multiverse-Core]
 commands:
   mineresetlite:
-    aliases: [mrl, mr, mine, minereset]
+    aliases: [em, mines, mine, minereset]
     description: Manage mines.
